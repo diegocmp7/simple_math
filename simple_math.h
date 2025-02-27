@@ -8,6 +8,7 @@
 #define _SIMPLEMATH_
 
 float mean (int a, int b);
+int max (int a,int b);
 
 
 #endif 
