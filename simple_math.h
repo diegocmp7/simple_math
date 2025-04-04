@@ -1,7 +1,10 @@
 /** \file simple_math.h
 	\brief a toy example of math library
 	\author Diego Esteban Campos
+<<<<<<< HEAD
   
+=======
+>>>>>>> complex_number
 */
 
 #ifndef _SIMPLEMATH_ 
@@ -21,5 +24,15 @@ float mean(int a, int b);
 cx_float_t cx_mean (cx_int_t a,cx_int_t b);
 
 int max (int a, int b);
+<<<<<<< HEAD
+=======
 
 #endif
+
+
+
+
+
+
+>>>>>>> complex_number
+
