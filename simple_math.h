@@ -1,6 +1,6 @@
 /** \file simple_math.h
 	\brief a toy example of math library
-	\author Diego Campos
+	\author Diego Esteban Campos
 */
 
 #ifndef _SIMPLEMATH_ 
